@@ -51,8 +51,9 @@
      
         ```$ ../configure CXX=g++ --disable-async-updates```
 	  <br> 这一步结果截图：
-      <div align="center"><img src="http://a2.qpic.cn/psb?/V13tPyF42OAeS3/cmFzIDZnsi0l2Z3V*Hqr.6Tyb7FzdwKIVbO6Uynp3ME!/b/dAkBAAAAAAAA&bo=LgKjAQAAAAADAKs!&rf=viewer_4&t=5/2.jpg">
+      <div align="center"><img src="http://a2.qpic.cn/psb?/V13tPyF42OAeS3/m7fldkcLZQzbiKk8zbAgo2iWTxvlyiHVobqsXQp6vrA!/b/dAkBAAAAAAAA&bo=LgKjAQAAAAADAKs!&rf=viewer_4&t=5">
       </div></br>
+
      * 编译
      
         ```$ sudo make install```
