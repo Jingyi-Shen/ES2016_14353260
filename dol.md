@@ -15,7 +15,7 @@ example1 包含三个部分，生产者、消费者和平方模块，还有两�
 
 * 修改之前的 .dot 截图
 <div align="center"><img src="http://a2.qpic.cn/psb?/V13tPyF42OAeS3/V0zsI2eesNf3QFPbpO1y2VOkd0K4XXNUKkq5VRweMuE!/b/dAkBAAAAAAAA&bo=AgK8AAAAAAADAJk!&rf=viewer_4&t=5"></div>
-* 修改之后的 .dot 截图 (待修改)
+* 修改之后的 .dot 截图 (待修改 sauqre->cubic)
 <div align="center"><img src="http://a2.qpic.cn/psb?/V13tPyF42OAeS3/V0zsI2eesNf3QFPbpO1y2VOkd0K4XXNUKkq5VRweMuE!/b/dAkBAAAAAAAA&bo=AgK8AAAAAAADAJk!&rf=viewer_4&t=5"></div>
 * square.c，原始代码：
 <div align="center"><img src="http://a2.qpic.cn/psb?/V13tPyF42OAeS3/FCs8wpW0p3d4spd9Si.eUHddBPy0r3eG2t2HC7Xr0zg!/b/dHIBAAAAAAAA&bo=DQLhAQAAAAADAMo!&rf=viewer_4&t=5"></div>
