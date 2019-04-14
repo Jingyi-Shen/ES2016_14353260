@@ -128,17 +128,6 @@
 
     5.验证是否安装成功： ```$ ant -version```<br><br>
 
-   
-*   关于图片怎么加入。查了一下，有很多方法。
-    1. 比如说可以先找一个图片分享网站，比如CloudApp，[七牛空间][3]，把图片放进去，生成一个网址；最后把网址复制到markdown的代码中。
-    2. 将Markdown需要用的图片放到git仓库中，发布到[github][4]上，访问github仓库图片拷贝链接地址，再在Markdown中引用。
-    3. 我最后用了，最接地气的，放到qq相册里面。    
-    </br>
-*   html可以用于Markdown
-    1. 图片的放入就可以用 div 和 img 标签。
 
   [1]: http://www.accellera.org/images/downloads/standards/systemc/systemc-2.3.1.tgz
   [2]: http://www.tik.ee.ethz.ch/~shapes/downloads/dol_ethz.zip
-  [3]:http://www.qiniu.com/
-  [4]:https://github.com/
-  [5]:http://ant.apache.org/bindownload.cgi
